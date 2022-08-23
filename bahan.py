@@ -2,11 +2,11 @@ from function import *
 
 
 cl = BE_Team(myToken="",
-            myApp="ANDROIDLITE\t2.14.0\tAndroid OS\t5.1.1")
+            myApp="1":"CHANNELCP\t2.9.1\tAndroid OS\t11")
 c2 = BE_Team(myToken="",
-            myApp="ANDROIDLITE\t2.13.0\tAndroid OS\t6.0.1")
+            myApp="2":"CHANNELCP\t2.9.1\tAndroid OS\t10")
 c3 = BE_Team(myToken="",
-            myApp="ANDROIDLITE\t2.13.2\tAndroid OS\t7.0")
+            myApp="3":"CHANNELCP\t2.9.1\tAndroid OS\t9")
 mid = cl.profile.mid
 c1mid = c1.profile.mid
 c2mid = c2.profile.mid
